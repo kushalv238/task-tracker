@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# A TASK TRACKER APPLICATION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with the help of [React App by Facebook](https://github.com/facebook/create-react-app).
+<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+
+To run the application locally you can clone the repo to your local directory and you can run the following commands:
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
