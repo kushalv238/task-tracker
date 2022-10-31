@@ -3,14 +3,6 @@
 This project was created with the help of [React App by Facebook](https://github.com/facebook/create-react-app).
 <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
 
-
-
-
-
-
-
-
-
 To run the application locally you can clone the repo to your local directory and you can run the following commands:
 
 ## Available Scripts
