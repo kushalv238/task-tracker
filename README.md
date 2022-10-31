@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Author
 
-[Kushal Vadodaria](http://linkedin.com/in/kushal-vadodaria)
+[Kushal Vadodaria](http://linkedin.com/in/kushal-vadodaria/?target=blank)
 
 ### Version
 
